@@ -1,3 +1,3 @@
 ## DOB_Permit_Issuance
 Analyzing the NYC Permit Issuance Data Set
-(investigation and findings in the pdf).
+(investigation,findings and details in the pdf).
